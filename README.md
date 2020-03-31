@@ -1,6 +1,6 @@
 # Deep-Learning-Adventures
-Deep Learning Adventures
 
+Code respository for the Deep Learning Adventures meetup at:
 https://www.meetup.com/Deep-Learning-Adventures
 
 ![alt text](images/Deep-Learning-Adventures-0.png)
