@@ -5,4 +5,4 @@ https://www.meetup.com/Deep-Learning-Adventures
 
 Please visit: https://github.com/georgezoto/TensorFlow-in-Practice
 
-![alt text](images/TensorFlow-in-Practice-0.png)
+![alt text](../images/TensorFlow-in-Practice-0.png)
