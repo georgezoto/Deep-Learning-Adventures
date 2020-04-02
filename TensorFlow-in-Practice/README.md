@@ -1,4 +1,4 @@
-#TensorFlow in Practice
+# TensorFlow in Practice
 
 Code respository for Chapter 1 of our Deep Learning Adventures meetup at:
 https://www.meetup.com/Deep-Learning-Adventures
