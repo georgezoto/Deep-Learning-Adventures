@@ -1,8 +1,7 @@
 # TensorFlow in Practice
 
-Code respository for Chapter 1 of our Deep Learning Adventures meetup at:
-https://www.meetup.com/Deep-Learning-Adventures
+Code repository for TensorFlow in Practice Specialization at 😀
+https://github.com/georgezoto/TensorFlow-in-Practice
 
-Please visit: https://github.com/georgezoto/TensorFlow-in-Practice
-
-![alt text](../images/TensorFlow-in-Practice-0.png)
+![alt text](../images/TensorFlow-in-Practice-1.png)
+![alt text](../images/TensorFlow-in-Practice-2.png)
